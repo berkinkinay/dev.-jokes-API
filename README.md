@@ -1,4 +1,4 @@
-# Fetching user data 💻
+# Fetching data from random joke API url💻
 This is about fetching data with axios using some React hooks and different variables in it.`
 
 ## Used Techs 🥰
