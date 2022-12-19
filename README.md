@@ -1,5 +1,5 @@
 # Fetching data from random joke API url💻
-`This is about Fetching data with axios in React with a custom useFetch Hook and different variables in it.`
+`This is about data fetching with axios in React with a custom useFetch Hook and different variables in it.`
 
 ## Used Techs 🥰
 
